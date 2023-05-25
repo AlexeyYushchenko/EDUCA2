@@ -7,18 +7,17 @@ public class BuildArrayFromPermutation {
     //
     //A zero-based permutation nums is an array of distinct integers from 0 to nums.length - 1 (inclusive).
     public int[] buildArray(int[] nums) {
-        aPermutation(nums,0);
+        aPermutations(nums, 0);
 
         return nums;
     }
 
-    void aPermutation(int[] nums,int start){
-        if(start<nums.length){
-            int temp=nums[start];
-            int result=nums[temp];
-            aPermutation(nums,start+1);
-            nums[start]=result;
+    private void aPermutations(int[] nums, int i) {
+        if (i < nums.length){
+            int index = nums[i];
+            int result = nums[index];
+            aPermutations(nums, i + 1);
+            nums[i] = result;
         }
-
     }
 }
