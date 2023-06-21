@@ -1,4 +1,4 @@
-package com.yushchenkoaleksey.edu.leetcode.middle;
+package com.yushchenkoaleksey.edu.leetcode.middle.array;
 
 import java.util.Arrays;
 
@@ -12,7 +12,7 @@ public class Rotate {
         System.arraycopy(part1, 0, nums, part2.length, part1.length);
     }
 
-    //Rotation mechanism. beats 53.29%
+    //BEST EFFICIENCY, beats 100%
     public static void rotate2(int[] nums, int k) {
         k = k % nums.length;
         reverse(nums, 0, nums.length - k);

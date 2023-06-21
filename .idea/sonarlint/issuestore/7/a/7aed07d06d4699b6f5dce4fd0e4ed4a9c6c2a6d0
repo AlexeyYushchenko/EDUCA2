@@ -1,0 +1,23 @@
+
+`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+R
+java:S4973,"<Strings and Boxed types should be compared using "equals()".(É·ê›
+V	java:S125"<This block of commented-out lines of code should be removed.(‡Ñûµùÿÿÿÿ
+9
+java:S6396,"#Remove this unnecessary quantifier.(É·ê›
+M
+java:S6353,"7Use concise quantifier syntax '{1}' instead of '{1,1}'.(É·ê›
+>	java:S108,")Either remove or fill this block of code.(É·ê›
+Q	java:S1252"<This block of commented-out lines of code should be removed.(¤ëÑç
+V	java:S125P"<This block of commented-out lines of code should be removed.(è×ÔŽûÿÿÿÿ
+;
+java:S1481V"&Remove this unused "n" local variable.(—ãÁ
+m
+java:S6204W"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¨ç´•úÿÿÿÿ
+G
+java:S1481W",Remove this unused "collect" local variable.(¨ç´•úÿÿÿÿ
+Q	java:S125X"<This block of commented-out lines of code should be removed.(£²ë·
+Q	java:S125_"<This block of commented-out lines of code should be removed.(‚äø
+Q	java:S125f"<This block of commented-out lines of code should be removed.(Œ×ý¨
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

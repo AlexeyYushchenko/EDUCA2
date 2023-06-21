@@ -1,0 +1,16 @@
+
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘¿»î8ËîÎù‚1
+n
+java:S1223#"LRename this method to prevent any misunderstanding or make it a constructor.(‹Å˜·üÿÿÿÿ8ÌîÎù‚1
+_
+java:S2259P"CA "NullPointerException" could be thrown; "node1" is nullable here.(òÇ‰88á†Òù‚1
+`
+java:S2259Q"CA "NullPointerException" could be thrown; "node2" is nullable here.(‚’² 8ï¶Ñù‚1
+`
+java:S2259L"CA "NullPointerException" could be thrown; "node2" is nullable here.(‚’² 8üêÔù‚1
+_
+java:S2259H"CA "NullPointerException" could be thrown; "node1" is nullable here.(òÇ‰88üêÔù‚1
+Y
+java:S18547"7Remove this useless assignment to local variable "set".(ØøØúüÿÿÿÿ8ÜîÎù‚1
+J
+java:S14817"(Remove this unused "set" local variable.(ØøØúüÿÿÿÿ8İîÎù‚1

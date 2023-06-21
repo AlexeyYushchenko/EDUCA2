@@ -1,0 +1,10 @@
+
+k
+java:S11499"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ
+k
+java:S1149?"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(úôÐ€þÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(ž¡»þ
+1
+java:S36264"Remove this redundant jump.(ôñþ—
+@
+java:S11723"*Remove this unused method parameter "res".(—ø·Ò
