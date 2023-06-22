@@ -5,8 +5,12 @@ import java.util.List;
 public class CountingSort {
 
     public static void countingSortI(List<Integer> list) {
-        int max = list.stream().max(Integer::compareTo).orElse(Integer.MAX_VALUE);
-        int min = list.stream().min(Integer::compareTo).orElse(0);
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
+        for (int n : list){
+            if (n > max) max = n;
+            if (n < min) min = n;
+        }
 
         int[]c = new int[max - min + 1];
         for (int value : list){
