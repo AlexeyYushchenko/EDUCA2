@@ -1,12 +1,12 @@
-package com.yushchenkoaleksey.edu.leetcode.hard.twopointers;
+package com.yushchenkoaleksey.edu.leetcode.hard.stack;
 
-public class LargestRectangleArea {
+public class LargestRectangleArea_____UNSOLVED {
     public static void main(String[] args) {
-        var res = new LargestRectangleArea().largestRectangleArea(new int[]{2, 1, 5, 6, 2, 3});
+        var res = new LargestRectangleArea_____UNSOLVED().largestRectangleArea(new int[]{2, 1, 5, 6, 2, 3});
         System.out.println(res);
-        res = new LargestRectangleArea().largestRectangleArea(new int[]{2, 4});
+        res = new LargestRectangleArea_____UNSOLVED().largestRectangleArea(new int[]{2, 4});
         System.out.println(res);
-        res = new LargestRectangleArea().largestRectangleArea(new int[]{4, 4, 5, 6, 2, 3});
+        res = new LargestRectangleArea_____UNSOLVED().largestRectangleArea(new int[]{4, 4, 5, 6, 2, 3});
         System.out.println(res);
     }
 

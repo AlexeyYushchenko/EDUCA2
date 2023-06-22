@@ -1,4 +1,4 @@
-package com.yushchenkoaleksey.edu.leetcode.hard;
+package com.yushchenkoaleksey.edu.leetcode.hard.linkedList;
 
 import java.util.*;
 
