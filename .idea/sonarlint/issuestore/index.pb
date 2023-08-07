@@ -1,6 +1,4 @@
 
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 q
 Asrc/main/java/com/yushchenkoaleksey/edu/HackerrankPlayground.java,7\a\7aed07d06d4699b6f5dce4fd0e4ed4a9c6c2a6d0
 Ç
@@ -17,8 +15,6 @@ Fsrc/main/java/com/yushchenkoaleksey/edu/leetcode/easy/climbStairs.java,5\2\524
 Xsrc/main/java/com/yushchenkoaleksey/edu/leetcode/easy/FirstUniqueCharacterInAString.java,d\7\d714d06f5706743f87af3e2007d7b5d9a86a271d
 v
 Fsrc/test/java/com/yushchenkoaleksey/edu/leetcode/easy/AnotherTest.java,3\8\381052e35be03362d6368896880fffcda12d2312
-v
-Fsrc/main/java/com/yushchenkoaleksey/edu/leetcode/hard/MergeKLists.java,9\2\9258080876dc04b00930e19db4d0ed922e9030f7
 r
 Bsrc/test/java/com/yushchenkoaleksey/edu/sort/CountingSortTest.java,c\8\c8d1fb77edaa47dd7239c626dd979038f693a32d
 p
@@ -97,3 +93,25 @@ Isrc/main/java/com/yushchenkoaleksey/edu/leetcode/easy/array/XOfAKind.java,1\1\
 ^src/test/java/com/yushchenkoaleksey/edu/leetcode/easy/array/BuildArrayFromPermutationTest.java,3\0\30b77747c72e05ebf44c660cbb8d9315b7742f7c
 }
 Msrc/main/java/com/yushchenkoaleksey/edu/leetcode/easy/array/ValidAnagram.java,0\9\09d8876f6e7de9fe0539b01d045cb8590216a0d7
+~
+Nsrc/main/java/com/yushchenkoaleksey/edu/leetcode/middle/array/ValidSudoku.java,6\6\6663117712353e815f25e96510efcea71b3befd5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+k
+;src/main/java/com/yushchenkoaleksey/edu/sort/QuickSort.java,4\9\49f8b183ad605556f02848a832e0b02129bc3b82
+Å
+Qsrc/main/java/com/yushchenkoaleksey/edu/leetcode/middle/twopointers/TwoSumII.java,3\5\35104a35a32c875608e89872a2e976114815bad1
+Å
+Qsrc/main/java/com/yushchenkoaleksey/edu/leetcode/middle/twopointers/ThreeSum.java,c\d\cd097979a764fcbe19e26e8fdbb914b263b2d860
+Ä
+Psrc/main/java/com/yushchenkoaleksey/edu/leetcode/middle/twopointers/MaxArea.java,6\4\64999aa472c385c6bda4b7769a7be65c9899674a
+á
+Wsrc/main/java/com/yushchenkoaleksey/edu/leetcode/middle/linkedlist/LinkedListCycle.java,0\8\08a8f2a0ac53709a822c8f021751db83fad28566
+Ñ
+Tsrc/main/java/com/yushchenkoaleksey/edu/leetcode/easy/binarysearch/BinarySearch.java,6\b\6be418997524990029e3c1ff770ebe2c2c17b004
+Ü
+Vsrc/main/java/com/yushchenkoaleksey/edu/leetcode/middle/binarysearch/SearchMatrix.java,f\7\f7382f3b0261f4a112106fc9dde82036d47cde76
+â
+Ysrc/main/java/com/yushchenkoaleksey/edu/leetcode/easy/twopointers/arithmeticTriplets.java,6\5\6583263d1b2d94d3b130e1e0bca1fd681c934724
+{
+Ksrc/main/java/com/yushchenkoaleksey/edu/leetcode/middle/stack/MinStack.java,7\a\7ad8f0ba8460b544d9f2e6007198b7df11d7d515
