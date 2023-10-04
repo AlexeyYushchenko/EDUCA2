@@ -1,7 +1,7 @@
 package com.yushchenkoaleksey.edu.leetcode.easy;
 
 import org.junit.jupiter.api.Test;
-import static com.yushchenkoaleksey.edu.leetcode.easy.SearchInsertPosition.searchInsert;
+import static com.yushchenkoaleksey.edu.miscellaneous.SearchInsertPosition.searchInsert;
 import static org.junit.jupiter.api.Assertions.*;
 
 class SearchInsertPositionTest {

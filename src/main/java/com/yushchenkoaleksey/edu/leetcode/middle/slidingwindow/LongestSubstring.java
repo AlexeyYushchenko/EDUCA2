@@ -8,20 +8,37 @@ import java.util.Set;
 
 public class LongestSubstring {
 
-
-    public int len(String s){
-        int maxLen = 0;
-        int pointer = 0;
+    int longest(String s){
         var chars = s.toCharArray();
+        int pointer = 0;
+        int res = 0;
         for (int i = 0; i < chars.length; i++) {
             for (int j = pointer; j < i; j++) {
-                if (chars[j] == chars[i]){
-                    maxLen = Math.max(maxLen, i - j);
+                if(chars[j] == chars[i]){
                     pointer = j + 1;
+                    res = Math.max(res, i - j);
                     break;
                 }
             }
-            maxLen = Math.max(maxLen, i - pointer + 1);
+            res = Math.max(res, i - pointer + 1);
+        }
+        return res;
+    }
+
+
+    public int len(String s){
+        int start = 0;
+        int maxLen = 0;
+        var chars = s.toCharArray();
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = start; j < i; j++) {
+                if (chars[j] == chars[i]){
+                    maxLen = Math.max(maxLen, i - j);
+                    start = j + 1;
+                    break;
+                }
+            }
+            maxLen = Math.max(maxLen, i - start + 1);
         }
         return maxLen;
     }
@@ -69,11 +86,11 @@ public class LongestSubstring {
 
     public static void main(String[] args) {
         LongestSubstring longestSubstring = new LongestSubstring();
-        System.out.println(longestSubstring.len("abcdefgfgfg"));
-        System.out.println(longestSubstring.len("abcabcbb"));
-        System.out.println(longestSubstring.len("bbbbb"));
-        System.out.println(longestSubstring.len("pwwkew"));
-        System.out.println(longestSubstring.len("au"));
+        System.out.println(longestSubstring.longest("abcdefgfgfg"));
+        System.out.println(longestSubstring.longest("abcabcbb"));
+        System.out.println(longestSubstring.longest("bbbbb"));
+        System.out.println(longestSubstring.longest("pwwkew"));
+        System.out.println(longestSubstring.longest("au"));
     }
 }
 

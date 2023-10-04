@@ -1,8 +1,8 @@
 
-o
-java:S62047"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(§ι«τ8€±βρο0
-X	java:S125±"<This block of commented-out lines of code should be removed.(³ς‚"8”±βρο0
-^	java:S125³"<This block of commented-out lines of code should be removed.(Ρο°Υύÿÿÿÿ8”±βρο0
-Y	java:S125¶"<This block of commented-out lines of code should be removed.(ÿΝε‚8•±βρο0
-`
-java:S1128">Remove this unused import 'java.util.stream.Collectors.toMap'.(£κιΒϊÿÿÿÿ8•±βρο0
+h
+java:S62047"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(§ι«τ
+Q	java:S125±"<This block of commented-out lines of code should be removed.(³ς‚"
+W	java:S125³"<This block of commented-out lines of code should be removed.(Ρο°Υύÿÿÿÿ
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ÿΝε‚
+Y
+java:S1128">Remove this unused import 'java.util.stream.Collectors.toMap'.(£κιΒϊÿÿÿÿ

@@ -1,23 +1,15 @@
 
-`	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
-R
-java:S4973,"<Strings and Boxed types should be compared using "equals()".(É·ê›
-V	java:S125"<This block of commented-out lines of code should be removed.(‡Ñûµùÿÿÿÿ
-9
-java:S6396,"#Remove this unnecessary quantifier.(É·ê›
-M
-java:S6353,"7Use concise quantifier syntax '{1}' instead of '{1,1}'.(É·ê›
->	java:S108,")Either remove or fill this block of code.(É·ê›
-Q	java:S1252"<This block of commented-out lines of code should be removed.(¤ëÑç
-V	java:S125P"<This block of commented-out lines of code should be removed.(è×Ôûÿÿÿÿ
-;
-java:S1481V"&Remove this unused "n" local variable.(—ãÁ
-m
-java:S6204W"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¨ç´•úÿÿÿÿ
-G
-java:S1481W",Remove this unused "collect" local variable.(¨ç´•úÿÿÿÿ
-Q	java:S125X"<This block of commented-out lines of code should be removed.(£²ë·
-Q	java:S125_"<This block of commented-out lines of code should be removed.(‚äø
-Q	java:S125f"<This block of commented-out lines of code should be removed.(Œ×ı¨
-S
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+Y
+java:S1854$"7Remove this useless assignment to local variable "arr".(†¡³üÿÿÿÿ8‰¼è”¡1
+`
+java:S1854#">Remove this useless assignment to local variable "playground".(‡™€ğøÿÿÿÿ8‰¼è”¡1
+˜
+java:S1130""vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8‰¼è”¡1
+Q
+java:S1481#"/Remove this unused "playground" local variable.(‡™€ğøÿÿÿÿ8‰¼è”¡1
+J
+java:S1481$"(Remove this unused "arr" local variable.(†¡³üÿÿÿÿ8‰¼è”¡1
+]	java:S125%"<This block of commented-out lines of code should be removed.(ÇÛ¢œşÿÿÿÿ8Š¼è”¡1
+X	java:S125'"<This block of commented-out lines of code should be removed.(‚¹İõ8ÚÀ¾É 1
+X	java:S125,"<This block of commented-out lines of code should be removed.(í›Í¸8ÚÀ¾É 1
+X	java:S125<"<This block of commented-out lines of code should be removed.(‚äø8ÚÀ¾É 1
