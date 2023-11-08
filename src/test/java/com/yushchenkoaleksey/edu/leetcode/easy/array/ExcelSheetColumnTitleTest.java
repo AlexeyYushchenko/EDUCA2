@@ -10,26 +10,26 @@ class ExcelSheetColumnTitleTest {
     ExcelSheetColumnTitle excel = new ExcelSheetColumnTitle();
     @Test
     void convertToTitle() {
-        Assertions.assertEquals("A", excel.convertToTitle(1));
+        assertEquals("A", excel.convertToTitle(1));
     }
     @Test
     void convertToTitle1() {
-        Assertions.assertEquals("AA", excel.convertToTitle(27));
+        assertEquals("AA", excel.convertToTitle(27));
     }
     @Test
     void convertToTitle2() {
-        Assertions.assertEquals("B", excel.convertToTitle(2));
+        assertEquals("B", excel.convertToTitle(2));
     }
     @Test
     void convertToTitle3() {
-        Assertions.assertEquals("C", excel.convertToTitle(3));
+        assertEquals("C", excel.convertToTitle(3));
     }
     @Test
     void convertToTitle4() {
-        Assertions.assertEquals("AZ", excel.convertToTitle(52));
+        assertEquals("AZ", excel.convertToTitle(52));
     }
     @Test
     void convertToTitle5() {
-        Assertions.assertEquals("ZY", excel.convertToTitle(701));
+        assertEquals("ZY", excel.convertToTitle(701));
     }
 }
