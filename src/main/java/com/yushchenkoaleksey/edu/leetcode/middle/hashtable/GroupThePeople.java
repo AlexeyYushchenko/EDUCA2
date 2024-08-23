@@ -1,4 +1,4 @@
-package com.yushchenkoaleksey.edu.leetcode.middle.array.hashtable;
+package com.yushchenkoaleksey.edu.leetcode.middle.hashtable;
 
 //https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/?envType=daily-question&envId=2023-09-11
 //1282. Group the People Given the Group Size They Belong To

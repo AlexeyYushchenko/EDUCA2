@@ -1,2 +1,7 @@
 # Project exclude paths
 /target/
+
+pom.xml
+.idea/sonarlint
+.idea/modules.xml
+EDUCA2.iml

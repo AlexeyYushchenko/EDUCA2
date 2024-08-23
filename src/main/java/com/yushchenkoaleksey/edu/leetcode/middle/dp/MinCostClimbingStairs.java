@@ -1,4 +1,4 @@
-package com.yushchenkoaleksey.edu.leetcode.easy;
+package com.yushchenkoaleksey.edu.leetcode.middle.dp;
 
 public class MinCostClimbingStairs {
     public int minCostClimbingStairs(int[] cost) {

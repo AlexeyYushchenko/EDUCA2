@@ -1,8 +1,7 @@
 package com.yushchenkoaleksey.edu.leetcode.middle.array.hashtable;
 
+import com.yushchenkoaleksey.edu.leetcode.middle.hashtable.GroupThePeople;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class GroupThePeopleTest {
     GroupThePeople groupThePeople = new GroupThePeople();

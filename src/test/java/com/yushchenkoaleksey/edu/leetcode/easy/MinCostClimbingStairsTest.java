@@ -1,5 +1,6 @@
 package com.yushchenkoaleksey.edu.leetcode.easy;
 
+import com.yushchenkoaleksey.edu.leetcode.middle.dp.MinCostClimbingStairs;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
